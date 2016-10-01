@@ -1,0 +1,5 @@
+D:\MyGit\Customer-Order-System\SalesDomain.DomainClasses\SalesDomain.DomainClasses\bin\Debug\SalesDomain.DomainClasses.dll
+D:\MyGit\Customer-Order-System\SalesDomain.DomainClasses\SalesDomain.DomainClasses\bin\Debug\SalesDomain.DomainClasses.pdb
+D:\MyGit\Customer-Order-System\SalesDomain.DomainClasses\SalesDomain.DomainClasses\obj\Debug\SalesDomain.DomainClasses.csprojResolveAssemblyReference.cache
+D:\MyGit\Customer-Order-System\SalesDomain.DomainClasses\SalesDomain.DomainClasses\obj\Debug\SalesDomain.DomainClasses.dll
+D:\MyGit\Customer-Order-System\SalesDomain.DomainClasses\SalesDomain.DomainClasses\obj\Debug\SalesDomain.DomainClasses.pdb

@@ -1,0 +1,11 @@
+D:\MyGit\Customer-Order-System\SalesDomain.DomainClasses\SalesDomain.DataLayer\bin\Debug\SalesDomain.DataLayer.dll
+D:\MyGit\Customer-Order-System\SalesDomain.DomainClasses\SalesDomain.DataLayer\bin\Debug\SalesDomain.DataLayer.pdb
+D:\MyGit\Customer-Order-System\SalesDomain.DomainClasses\SalesDomain.DataLayer\bin\Debug\EntityFramework.dll
+D:\MyGit\Customer-Order-System\SalesDomain.DomainClasses\SalesDomain.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyGit\Customer-Order-System\SalesDomain.DomainClasses\SalesDomain.DataLayer\bin\Debug\SalesDomain.DomainClasses.dll
+D:\MyGit\Customer-Order-System\SalesDomain.DomainClasses\SalesDomain.DataLayer\bin\Debug\SalesDomain.DomainClasses.pdb
+D:\MyGit\Customer-Order-System\SalesDomain.DomainClasses\SalesDomain.DataLayer\bin\Debug\EntityFramework.xml
+D:\MyGit\Customer-Order-System\SalesDomain.DomainClasses\SalesDomain.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyGit\Customer-Order-System\SalesDomain.DomainClasses\SalesDomain.DataLayer\obj\Debug\SalesDomain.DataLayer.csprojResolveAssemblyReference.cache
+D:\MyGit\Customer-Order-System\SalesDomain.DomainClasses\SalesDomain.DataLayer\obj\Debug\SalesDomain.DataLayer.dll
+D:\MyGit\Customer-Order-System\SalesDomain.DomainClasses\SalesDomain.DataLayer\obj\Debug\SalesDomain.DataLayer.pdb
