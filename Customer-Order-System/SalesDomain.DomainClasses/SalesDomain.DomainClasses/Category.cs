@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SalesDomain.DomainClasses
 {
-    public partial class Category
+    public class Category
     {
         public Category()
         {

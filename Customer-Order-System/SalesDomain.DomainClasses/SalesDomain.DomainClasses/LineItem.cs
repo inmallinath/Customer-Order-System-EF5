@@ -1,6 +1,6 @@
 ﻿namespace SalesDomain.DomainClasses
 {
-    public partial class LineItem
+    public class LineItem
     {
         public int LineItemId { get; set; }
         public int Quantity { get; set; }

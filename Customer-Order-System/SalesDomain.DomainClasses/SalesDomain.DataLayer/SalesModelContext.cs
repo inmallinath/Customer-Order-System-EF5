@@ -1,5 +1,5 @@
-﻿using SalesDomain.DomainClasses;
-using System.Data.Entity;
+﻿using System.Data.Entity;
+using SalesDomain.DomainClasses;
 
 namespace SalesDomain.DataLayer
 {

@@ -2,7 +2,7 @@
 
 namespace SalesDomain.DomainClasses
 {
-    public partial class Product
+    public class Product
     {
         public Product()
         {

@@ -1,7 +1,11 @@
-﻿namespace SalesDomain.DomainClasses
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace SalesDomain.DomainClasses
 {
-    public partial class ContactDetail
+    public class ContactDetail
     {
+        [Key, ForeignKey("Customer")]
         public int CustomerId { get; set; }
         public string MobilePhone { get; set; }
         public string HomePhone { get; set; }

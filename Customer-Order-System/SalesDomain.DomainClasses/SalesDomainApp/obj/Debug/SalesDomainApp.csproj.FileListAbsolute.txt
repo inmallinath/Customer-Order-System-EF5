@@ -2,13 +2,11 @@ D:\MyGit\Customer-Order-System\SalesDomain.DomainClasses\SalesDomainApp\bin\Debu
 D:\MyGit\Customer-Order-System\SalesDomain.DomainClasses\SalesDomainApp\bin\Debug\SalesDomainApp.exe
 D:\MyGit\Customer-Order-System\SalesDomain.DomainClasses\SalesDomainApp\bin\Debug\SalesDomainApp.pdb
 D:\MyGit\Customer-Order-System\SalesDomain.DomainClasses\SalesDomainApp\bin\Debug\EntityFramework.dll
-D:\MyGit\Customer-Order-System\SalesDomain.DomainClasses\SalesDomainApp\bin\Debug\EntityFramework.SqlServer.dll
 D:\MyGit\Customer-Order-System\SalesDomain.DomainClasses\SalesDomainApp\bin\Debug\SalesDomain.DataLayer.dll
 D:\MyGit\Customer-Order-System\SalesDomain.DomainClasses\SalesDomainApp\bin\Debug\SalesDomain.DomainClasses.dll
 D:\MyGit\Customer-Order-System\SalesDomain.DomainClasses\SalesDomainApp\bin\Debug\SalesDomain.DataLayer.pdb
 D:\MyGit\Customer-Order-System\SalesDomain.DomainClasses\SalesDomainApp\bin\Debug\SalesDomain.DomainClasses.pdb
 D:\MyGit\Customer-Order-System\SalesDomain.DomainClasses\SalesDomainApp\bin\Debug\EntityFramework.xml
-D:\MyGit\Customer-Order-System\SalesDomain.DomainClasses\SalesDomainApp\bin\Debug\EntityFramework.SqlServer.xml
 D:\MyGit\Customer-Order-System\SalesDomain.DomainClasses\SalesDomainApp\obj\Debug\SalesDomainApp.csprojResolveAssemblyReference.cache
 D:\MyGit\Customer-Order-System\SalesDomain.DomainClasses\SalesDomainApp\obj\Debug\SalesDomainApp.exe
 D:\MyGit\Customer-Order-System\SalesDomain.DomainClasses\SalesDomainApp\obj\Debug\SalesDomainApp.pdb
